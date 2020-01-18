@@ -1,9 +1,3 @@
----
-title: "Data Manipulation in R"
-output:
-  html_document:
-    keep_md: yes
----
 
 Load the required packages
 
